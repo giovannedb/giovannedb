@@ -6,7 +6,7 @@
 
 :house_with_garden: Sou de Campinas-SP.
 
-👨‍💻 Atualmente trabalhando com Java 8, HTML5, CSS3, JavaScript, Node.js, Vue.js
+👨‍💻 Atualmente trabalhando com Java 8, Java 21, Spring Boot, Angular 8, TypeScript e PrimeFaces
 
 - Obrigado pela visita.
 
